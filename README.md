@@ -5,51 +5,51 @@
 ### Description du Projet :
 Nous fabriquons un Robot mobile doté d'un capteur de présence programmé sur Arduino à partir du modèle RobotDuLab du LAB Aix bidouille. Le chassis est en bois medium imprimé à la découpeuse laser.
 
+## Objectifs 
+
+- Comprendre la logique de fabrication des objets connectés présents au quotidien
+- Etre capable d'agir, controller, modifier
+- Etre capable de s'adapter, de répondre a des problèmes
+- Développer la créativité et l'imagination (Libération de la créativité)
+- Comprendre l'écosysteme d'un fablab
+- Etre capable de réaliser un projet au sein d'un fablab
+- Etre capable d'identifier les différents licences juridiques, d'usage, droit d'auteurs
+- Etre capable de créer un objet connecté
+- Etre capable de documenter un projet fablab
+
 ## Pré-requis
 Connaissances de base en informatique. 
 
-## Objectifs 
-Comprendre la logique de fabrication des objets connectés présents au quotidien<br>
-Etre capable d'agir, controller, modifier<br>
-Etre capable de s'adapter, de répondre a des problèmes<br>
-Développer la créativité et l'imagination (Libération de la créativité)<br>
-Comprendre l'écosysteme d'un fablab<br>
-Etre capable de réaliser un projet au sein d'un fablab<br>
-Etre capable d'identifier les différents licences juridiques, d'usage, droit d'auteurs<br>
-Etre capable de créer un objet connecté<br>
-Etre capable de documenter un projet fablab<br>
-
-
 ### Materiel
 ![Matériel](https://github.com/chrishtzk/Robot-du-Lab-Cmn/blob/master/materielrobot.jpg)
-2 x servomoteurs à rotation continue<br> 
-1 x shield ultrason (capteur de présence)<br> 
-2 x roues pour servomoteurs<br> 
-1 x roue axe type bille<br> 
-1 x interrupteur à glissière<br> 
-1 x bloc 6 piles AA<br> 
-1 x led ring (Neopixel ring)<br> 
-1 x pistolet à colle<br> 
-1 x fer à souder avec fil d’étain<br> 
+- 2 x servomoteurs à rotation continue
+- 1 x shield ultrason (capteur de présence)
+- 2 x roues pour servomoteurs
+- 1 x roue axe type bille
+- 1 x interrupteur à glissière
+- 1 x bloc 6 piles AA
+- 1 x led ring (Neopixel ring)
+- 1 x pistolet à colle
+- 1 x fer à souder avec fil d’étain
 
-1 x carte Arduino Uno<br>
-1 x lot de cables dupont male/femelle<br>
-1 x cable usb<br>
-1 x adaptateur usb<br>
+- 1 x carte Arduino Uno
+- 1 x lot de cables dupont male/femelle
+- 1 x cable usb
+- 1 x adaptateur usb
 
 ### Coût
 
-Carte Arduino Uno : 10 EUR<br>
-Planche bois medium 3mm : 2 EUR<br>
-2X Servomoteurs Mini Servo FS5103R : 21 EUR<br>
-Module Shield Ultrason HC-SR04 : 3,90 EUR<br>
-2x Roue pour servomoteur FS5103R : 3,80 EUR<br>
-Roue libre metal ball caster #955 : 3,30 EUR<br>
-Interrupteur à Glissière Ayz0202 Pour Arduino : 3:00 EUR<br>
-Lot Cables Dupont male et femelle : 3,99 EUR<br>
-Boitier 6 piles AA :3,90 EUR<br>
-Cable USB : 2,00 EUR<br>
-Adaptateur USB : 2,00 EUR<br>
+- Carte Arduino Uno : 10 EUR
+- Planche bois medium 3mm : 2 EUR
+- 2X Servomoteurs Mini Servo FS5103R : 21 EUR
+- Module Shield Ultrason HC-SR04 : 3,90 EUR
+- 2x Roue pour servomoteur FS5103R : 3,80 EUR
+- Roue libre metal ball caster #955 : 3,30 EUR
+- Interrupteur à Glissière Ayz0202 Pour Arduino : 3:00 EUR
+- Lot Cables Dupont male et femelle : 3,99 EUR
+- Boitier 6 piles AA :3,90 EUR
+- Cable USB : 2,00 EUR
+- Adaptateur USB : 2,00 EUR
 
 Coût total : Environ 60 EUR 
 
