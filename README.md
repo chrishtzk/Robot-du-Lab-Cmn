@@ -5,7 +5,7 @@
 ### Description du Projet :
 Nous fabriquons un Robot mobile doté d'un capteur de présence programmé sur Arduino à partir du modèle RobotDuLab du LAB Aix bidouille. Le chassis est en bois medium imprimé à la découpeuse laser.
 
-## Objectifs 
+### Objectifs 
 
 - Comprendre la logique de fabrication des objets connectés présents au quotidien
 - Etre capable d'agir, controller, modifier
@@ -17,10 +17,10 @@ Nous fabriquons un Robot mobile doté d'un capteur de présence programmé sur A
 - Etre capable de créer un objet connecté
 - Etre capable de documenter un projet fablab
 
-## Pré-requis
+### Pré-requis
 Connaissances de base en informatique. 
 
-### Materiel
+## Materiel
 ![Matériel](https://github.com/chrishtzk/Robot-du-Lab-Cmn/blob/master/materielrobot.jpg)
 - 2 x servomoteurs à rotation continue
 - 1 x shield ultrason (capteur de présence)
@@ -62,7 +62,7 @@ Utilisaton de la machine : 2 min pour imprimer les pièces
 Inkscape pour les plans de découpe laser<br>
 Fritzing pour schémas de connectique
 
-### Electronique / Programmation
+## Electronique / Programmation
 Schéma de connexion électronique
 ![Schéma Fritzing](https://github.com/chrishtzk/Robot-du-Lab-Cmn/blob/master/Sch%C3%A9ma_avec_ring.JPG)<br>
 Code Arduino pour le fonctionnement du Pixel Ring et les mouvement du Robot.
