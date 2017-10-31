@@ -1,4 +1,4 @@
-# RobotDuLab
+# RobotDuLab-CMN
 ![Robot du LAB](Robot.jpg)
 ## Présentation et objectifs
 
